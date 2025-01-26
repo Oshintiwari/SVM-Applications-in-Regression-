@@ -17,11 +17,11 @@ Applied Support Vector Regression (SVR) with various kernels to predict non-line
 Steps to Run:
 
 1. Install Python and required libraries such as numpy, pandas, scikit-learn, and matplotlib.
-2. 
-3. Clone the GitHub repository from the provided link and navigate into the project directory.
-4. 
-5. Add the Kaggle dataset (containing columns such as YearsExperience and Salary) to the project directory.
-6. 
-7. Execute the main Python script in the repository to train and evaluate the SVM regression models.
-8. 
-9. Analyze the printed metrics and review the generated scatter plots comparing the actual vs. predicted values.
+   
+2. Clone the GitHub repository from the provided link and navigate into the project directory.
+   
+3. Add the Kaggle dataset (containing columns such as YearsExperience and Salary) to the project directory.
+   
+4. Execute the main Python script in the repository to train and evaluate the SVM regression models.
+   
+5. Analyze the printed metrics and review the generated scatter plots comparing the actual vs. predicted values.
